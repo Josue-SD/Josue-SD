@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 ![Untitled (5)_page-0001](https://github.com/user-attachments/assets/aa5563a5-0216-443f-8eae-0b50cec449f3)
 
-![Untitled (7)_removed_page-0001](https://github.com/user-attachments/assets/3dbf030b-602b-42f1-a391-a18f2dfd4414)
+| Imagen 1 | Imagen 2 |
+| --- | --- |
+| ![HiCube (Videogame)](![Untitled (7)_removed_page-0001](https://github.com/user-attachments/assets/3dbf030b-602b-42f1-a391-a18f2dfd4414)) | ![Registernet (School Control System)](![Untitled (7)_removed_page-0002](https://github.com/user-attachments/assets/8fae71c3-5635-4807-a42c-dc7b641efe34)) |
 
-![Untitled (7)_removed_page-0002](https://github.com/user-attachments/assets/8fae71c3-5635-4807-a42c-dc7b641efe34)
+
+
+
+
