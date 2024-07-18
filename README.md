@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | VideoGame | School Control System |
 | --- | --- |
-| HiCube![Untitled (7)_removed_page-0001](https://github.com/user-attachments/assets/3dbf030b-602b-42f1-a391-a18f2dfd4414) | Registernet![Untitled (7)_removed_page-0002](https://github.com/user-attachments/assets/8fae71c3-5635-4807-a42c-dc7b641efe34) |
+| ![Untitled (7)_removed_page-0001](https://github.com/user-attachments/assets/3dbf030b-602b-42f1-a391-a18f2dfd4414) | ![Untitled (7)_removed_page-0002](https://github.com/user-attachments/assets/8fae71c3-5635-4807-a42c-dc7b641efe34) !https://img.shields.io/badge/just%20the%20message-8A2BE2|
 
 
 
